@@ -16,7 +16,7 @@ A machine learning project that predicts monthly personal expenses across differ
   - 💡 Bills  
   - 🏥 Healthcare  
   - 🎓 Education
-- Estimates total monthly expense for each category
+- Estimates total monthly expense for each category and calculates the savings
 - Visualizations with bar charts and heatmaps
 
 ---
